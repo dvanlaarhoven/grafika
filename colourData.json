@@ -1,0 +1,156 @@
+{   "colours":  [ {
+            "blood": ["#FF0000","#FF4242","#CA160B","#E60D00","#FF5E55"],
+            "rage":["#FF0000","#FF4242","#CA160B","#E60D00","#FF5E55"],
+            "rose": ["#FF0000","#FF4242","#CA160B","#E60D00","#FF5E55"],
+            "cardinal": ["#FF0000","#FF4242","#CA160B","#E60D00","#FF5E55"],
+            "crimson": ["#dc143c", "#ff0033", "#ff3300", "#cc1100", "#990000"],
+            "scarlet": ["#dc143c", "#ff0033", "#ff3300", "#cc1100", "#990000"],
+            "maroon": ["#800020", "#990000", "#8b0000", "#800000", "#8b008b"],
+            "ruby": ["#dc143c", "#ff0033", "#ff3300", "#cc1100", "#990000"],
+            "burgundy": ["#800020", "#990000", "#8b0000", "#800000", "#8b008b"],
+            "heart": ["#FF0000","#FF4242","#CA160B","#E60D00","#FF5E55"],
+            "pepper": ["#FF0000","#FF4242","#FF2E53","#E60D00","#FF4074"]
+            
+            },
+
+        {
+            "fire": ["#FF6E40","#FF482F","#FF3114","#FFA714","#FFB714"],
+            "flame": ["#FF6E40","#FF482F","#FF3114","#FFA714","#FFB714"],
+            "inferno": ["#FF2400","#FF4500","#FF6347","#FF7F50","#FF8C00"],
+            "blaze": ["#FF2400","#FF4500","#FF6347","#FF7F50","#FF8C00"],
+            "ember": ["#FF2400","#FF4500","#FF6347","#FF7F50","#FF8C00"],
+            "warm": ["#FF6347", "#FFA07A", "#FFD700", "#FF4500", "#FF7F50"],
+            "heat": ["#FF2400","#FF4500","#FF6347","#FF7F50","#FF8C00"],
+            "sun": ["#FF6E40","#FF482F","#FF3114","#FFA714","#FFB714"],
+            "star": ["#FF6E40","#FF482F","#FF3114","#FFA714","#FFB714"],
+            "mars": ["#b22222", "#dc143c", "#ff0000", "#cd5c5c", "#ff6347"],
+            "citrus": ["#FF9A14","#FF6516","#FFB24B","#FFDE00","#FEEB2D"],
+            "pumpkin": ["#FE7F2D","#FF753E", "#F25425","#FF693C","#FF762A"]
+        },
+        
+        {
+            "sunshine": ["#FFBB5B","#FFC275", "#FFC342", "#FFF142", "#FFF575"],
+            "lemon": ["#FFF142", "#FFF575","#FFF223","#FFF008","#F4FE22"],
+            "sand": ["#f5deb3", "#d2b48c", "#deb887", "#bc8f8f", "#f4a460"],
+            "dry": ["#f0e68c", "#ffd700", "#ffa500", "#ffdab9", "#ff8c00"],
+            "dunes": ["#d2b48c", "#cd853f", "#8b4513", "#a0522d", "#b8860b"],
+            "radiance": ["#ffec00", "#ffbf00", "#ffcc00", "#ffd700", "#ffdf00"],
+            "golden": ["#ffd700", "#ffdf00", "#fff000", "#fff200", "#fff566"],
+            "brightness": ["#ffcc00", "#ffd700", "#ffdf00", "#fff000", "#fff200"],
+            "sunbeam": ["#ffd700", "#ffdf00", "#fff000", "#fff200", "#fff566"],
+            "warmth": ["#ffd700", "#ffdf00", "#fff000", "#fff200", "#fff566"]
+        },
+
+        {
+            "forest": ["#228B22", "#2E8B57", "#556B2F", "#8FBC8F", "#6B8E23"],
+            "woodland": ["#228b22", "#2e8b57", "#3cb371", "#32cd32", "#6b8e23"],
+            "greenwood": ["#8b4513", "#a0522d", "#cd853f", "#d2b48c", "#deb887"],
+            "jungle": ["#228b22", "#32cd32", "#006400", "#008000", "#00ff00"],
+            "tree": ["#1E8449", "#27AE60", "#239B56", "#52BE80", "#1ABC9C"],
+            "swamp": ["#4E6C4D", "#556B2F", "#2E8B57", "#3CB371", "#8FBC8F"],
+            "grass": ["#89F65D","#55D222","#6AFB30","#B6FF98","#43B616"],
+            "ivy": ["#89F65D","#55D222","#6AFB30","#B6FF98","#43B616"],
+            "jade": ["#89F65D","#55D222","#6AFB30","#B6FF98","#43B616"],
+            "timberland": ["#808000", "#556b2f", "#8fbc8f", "#4682b4", "#20b2aa"],
+            "sylvan": ["#228b22", "#3cb371", "#32cd32", "#006400", "#008000"],
+            "emerald": ["#89F65D","#55D222","#6AFB30","#B6FF98","#43B616"],
+            "clover": ["#89F65D","#55D222","#6AFB30","#B6FF98","#43B616"],
+            "oasis": ["#32cd32", "#006400", "#228b22", "#008000", "#7cfc00"]
+
+        },
+
+        { 
+            "sky": ["#87CEEB","#00BFFF","#4682B4","#87CEFA","#1E90FF"],
+            "cerulean": ["#007BA7","#2A52BE","#6D9BC3","#74B2CC","#339ACC"],
+            "ocean": ["#0077BE","#0080FF","#006994","#4F8CFF","#00539C"],
+            "sapphire": ["#0F52BA","#082567","#0B3C5D","#1560BD","#1F305E"],
+            "azure": ["#007FFF","#003399","#89CFF0","#4682BF","#3AAACD"],
+            "cyan": ["#00FFFF","#E0FFFF","#00FFFF","#2F4F4F","#00BFBF"],
+            "arctic": ["#C9FFFF","#ABEBC6","#7FFFD4","#7DF9FF","#AFEEEE"],
+            "ice": ["#E0FFFF","#BBE0E3", "#B0E0E6","#7FFFD4","#00CED1"],
+            "frost": ["#E0FFFF","#BBE0E3", "#B0E0E6","#7FFFD4","#00CED1"],
+            "glacier": ["#E0FFFF","#BBE0E3", "#B0E0E6","#7FFFD4","#00CED1"],
+            "cold": ["#E0FFFF","#BBE0E3", "#B0E0E6","#7FFFD4","#00CED1"],
+            "chill": ["#E0FFFF","#BBE0E3", "#B0E0E6","#7FFFD4","#00CED1"],
+            "frozen": ["#E0FFFF","#BBE0E3", "#B0E0E6","#7FFFD4","#00CED1"],
+            "subzero": ["#E0FFFF","#BBE0E3", "#B0E0E6","#7FFFD4","#00CED1"],
+            "snow": ["#FFFAFA","#F8F8FF","#FAF0E6","#FFFAF0","#F0FFFF"],
+            "water": ["#0077BE", "#00A4E4", "#72C3DC", "#A0D8EF", "#BFEFFF"],
+            "lake": ["#0077BE", "#00A4E4", "#72C3DC", "#A0D8EF", "#BFEFFF"],
+            "cool": ["#00CED1", "#6495ED", "#4682B4", "#87CEEB", "#87CEFA"]
+
+        },
+        {
+            "earth": ["#8B4513", "#A0522D", "#DEB887", "#CD853F", "#D2B48C"],
+            "natural": ["#8B4513", "#A0522D", "#DEB887", "#CD853F", "#D2B48C"],
+            "rust": ["#B7410E", "#8B4513", "#CD5C5C", "#B8860B", "#CD853F"],
+            "chocolate": ["#D2691E", "#8B4513", "#CD853F", "#A0522D", "#7B3F00"],
+            "wood":["#8B4513", "#A0522D", "#CD853F", "#D2691E", "#8B7355"],
+            "mud": ["#8B4513", "#A0522D", "#CD853F", "#7B5A2B", "#704214"],
+            "cliff":["#8B4513", "#A0522D", "#D2B48C", "#DEB887", "#CD853F"]
+
+        },
+
+        {
+            "galaxy": ["#000080", "#220a99", "#351b6d", "#1a0d33", "#09072d"],
+            "lavender": ["#e6e6fa","#d8bfd8","#c8a2c8","#b57edc","#967bb6"],
+            "stars": ["#ffd700", "#ffff00", "#ffe600", "#ffeb3b", "#ffe900"],
+            "space": ["#0000ff", "#1e90ff", "#4682b4", "#6495ed", "#87ceeb"],
+            "universe": ["#4b0082", "#6a5acd", "#7b68ee", "#8a2be2", "#9370db"],
+            "nebula": ["#ffa07a", "#fa8072", "#ff6347", "#ff4500", "#ff7f50"]
+        },
+
+        {
+            "bright": ["#ffff00", "#ffd700", "#ffff33", "#ffbf00", "#ffcc00"],
+            "glowing": ["#00ffff", "#00ced1", "#66cccc", "#00cccc", "#33cccc"],
+            "vibrant": ["#ff00ff", "#ff1493", "#ff69b4", "#ff007f", "#ff3399"],
+            "fluorescent": ["#00ff00", "#66ff66", "#00cc00", "#33cc33", "#00ff99"],
+            "radiant": ["#ff0000", "#ff3333", "#ff6666", "#ff9999", "#ffcccc"],
+            "retro": ["#ff99cc", "#ff6699", "#ff3399", "#cc0066", "#993366"],
+            "neon": ["#ff00cc", "#ff66ff", "#ff33cc", "#ff33ff", "#cc00cc"],
+            "futuristic": ["#cc99ff", "#cc66ff", "#9900cc", "#9933ff", "#6600cc"],
+            "cyberpunk": ["#66ffff", "#66ccff", "#3399ff", "#3366ff", "#0033cc"],
+            "tech": ["#ffcc00", "#ffff00", "#ff9900", "#ff6600", "#ff3300"],
+            "glow": ["#ffcc99", "#ff9966", "#ff6633", "#ff3300", "#cc3300"],
+            "retrowave": ["#ff99cc", "#ff6699", "#ff3366", "#ff0033", "#cc0066"],
+            "electronic": ["#33cccc", "#33cc99", "#33cc66", "#33cc33", "#009966"],
+            "synthesized": ["#ccccff", "#9999ff", "#6666ff", "#3333ff", "#0000ff"],
+            "vaporwave": ["#cc99ff", "#cc66ff", "#9966ff", "#6633ff", "#3300ff"],
+            "vintage": ["#B8860B", "#CD853F", "#DAA520", "#F4A460", "#FFD700"],
+            "flower": ["#FF69B4", "#FF1493", "#DA70D6", "#FFC0CB", "#FFB6C1"],
+            "floral": ["#FFD700", "#FFA500", "#FF4500", "#FF6347", "#FF7F50"],
+            "blossom": ["#FFB6C1", "#FFC0CB", "#FF69B4", "#FF1493", "#DB7093"]
+        },
+
+        {
+            "complementary": ["#FF0000", "#00FF00", "#0000FF", "#FFFF00", "#00FFFF"],
+            "contrast":["#FF6347", "#FFD700", "#7FFF00", "#ADFF2F", "#32CD32"],
+            "pastel":["#FFA07A", "#87CEEB", "#FFB6C1", "#98FB98", "#FFD700"],
+            "monochrome": ["#336699", "#6699CC", "#99CCFF", "#CCDDFF", "#E6F2FF"],
+            "monochromatic": ["#336699", "#6699CC", "#99CCFF", "#CCDDFF", "#E6F2FF"],
+            "analogous":["#FF7F50", "#FFD700", "#ADFF2F", "#32CD32", "#00FF7F"],
+            "triadic": ["#FF0000", "#00FF00", "#0000FF", "#FFFF00", "#FF00FF"],
+            "darkness": ["#000000", "#333333", "#666666", "#999999", "#CCCCCC"],
+            "dark": ["#000000", "#333333", "#666666", "#999999", "#CCCCCC"]
+
+        },
+      
+
+        {
+            "anime": ["#FF69B4", "#FF1493", "#FFD700", "#1E90FF", "#32CD32"],
+            "mecha": ["#00BFFF", "#1E90FF", "#4169E1", "#0000FF", "#0000CD"],
+            "shonen": ["#FF4500", "#FF6347", "#FF7F50", "#FF8C00", "#FFA500"],
+            "fairy": ["#FFB6C1", "#FFC0CB", "#FF69B4", "#FF1493", "#DB7093"],
+            "goku": ["#FFD700", "#FFA500", "#FF6347", "#FF0000", "#000000"],
+            "saiyan": ["#FFD700", "#FFA500", "#FF6347", "#FF0000", "#000000"],
+            "naruto": ["#FFA500", "#FFD700", "#FF6347", "#4169E1", "#FF0000"],
+            "luffy": ["#FF6347", "#FFD700","#FF0000" , "#FFFF00", "#87CEEB"], 
+            "ichigo": ["#000000", "#FF8C00", "#B22222", "#00FFFF", "#FFFFFF"],
+            "pokemon": ["#FFDE00", "#4E758D", "#8CB9E0", "#E86252", "#70C9C7"],
+            "evil": ["#333333","#800000","#666666","#800080","#5D4037"],
+            "death": ["#000000", "#2C3539", "#545454", "#6E6E6E", "#8B0000"]
+
+        }
+    ]
+
+}      

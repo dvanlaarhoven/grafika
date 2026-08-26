@@ -1,0 +1,10 @@
+__MACOSX/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+
+grafika_users.db
+colourHistory.txt
