@@ -1,8 +1,15 @@
+<p align="center">
+  <img src="GrafikaPictures/GRAFIKA.png" alt="GRAFIKA logo" width="220"/>
+</p>
+
 # GRAFIKA
 
 GRAFIKA is a desktop drawing application I built in Python for my A-Level Computer Science NEA.
 
 The project was inspired by my own interest in art. I had already spent years drawing and creating commissioned artwork using software such as Clip Studio Paint and Procreate, so I wanted to build a graphics application of my own rather than choose a completely unrelated NEA idea.
+
+## Preview
+![GRAFIKA main interface](Screenshots/grafika_screenshot000.png)
 
 ## Features
 
